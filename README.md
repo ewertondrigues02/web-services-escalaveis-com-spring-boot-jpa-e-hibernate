@@ -1,10 +1,10 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ewertondrigues02/web-services-com-springboot-jpa-hibernate/blob/master/LICENSE)
 # Back end 
 
-   * Java
-   * Spring Boot
-   * JPA / Hibernate
-   * Maven
+   * Java.
+   * Spring Boot.
+   * JPA / Hibernate.
+   * Maven.
 
      
  
