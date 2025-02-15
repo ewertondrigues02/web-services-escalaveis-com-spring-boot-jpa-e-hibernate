@@ -7,8 +7,6 @@
    * Maven.
 
      
- 
-
 Diagrama de modelo de domínio para um sistema de software. Ele representa várias entidades e seus relacionamentos. Aqui estão os principais pontos:
 ![Captura de tela 2024-05-10 074455](https://github.com/ewertondrigues02/web-services-com-springboot-jpa-hibernate/assets/106437473/d02c7484-1852-40fb-9469-bee7d76bb6c9)
 
