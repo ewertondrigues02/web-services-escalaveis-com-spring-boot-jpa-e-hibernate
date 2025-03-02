@@ -55,7 +55,10 @@ public class Order implements Serializable {
 		this.client = client;
 	}
 
-	public Long getId() {
+    public Order(long l, String order2) {
+    }
+
+    public Long getId() {
 		return id;
 	}
 
